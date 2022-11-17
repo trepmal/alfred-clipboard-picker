@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>kdl-clipboard-picker</string>
+	<key>connections</key>
+	<dict>
+		<key>515F27A2-F544-4C07-B3B5-F292FBC4A39B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>75CF9514-E0F7-46D8-BAEF-B085573255A7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>82226DC0-14B3-4FB4-814F-AE67F12D1FD0</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>reverse</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>69C565F1-BCC7-44A2-B02A-CC5A5109A0F0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6D4B59C1-403C-4227-87F8-E26EEC72898E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6D4B59C1-403C-4227-87F8-E26EEC72898E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B739B45D-256F-41AB-9269-EFF9848451D5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>75CF9514-E0F7-46D8-BAEF-B085573255A7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0A32D3E4-EBDA-45F9-8EA9-503D6D788860</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>92304C74-F017-4157-B5C4-E1E0888AACB6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6D4B59C1-403C-4227-87F8-E26EEC72898E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>960CF659-B718-4EB6-BCDC-2328C5F9EBEA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F3954C19-F298-4097-8E82-05DF2DBF11AC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A3281562-32E1-4A34-8296-AA06D504BD23</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F3954C19-F298-4097-8E82-05DF2DBF11AC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B38406A2-0C6B-40DC-B065-45CDCD54F556</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BEA96177-873D-4783-B28B-06E2A86842D0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>CADA326C-A372-46EA-9CE6-BCBE7B6218A4</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>reverse order</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B739B45D-256F-41AB-9269-EFF9848451D5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DA5D80FF-BF76-4F51-84E0-148D04BF8A82</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BEA96177-873D-4783-B28B-06E2A86842D0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5D810CAF-4F05-44E7-B97E-0CC66BA931E5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CADA326C-A372-46EA-9CE6-BCBE7B6218A4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5D810CAF-4F05-44E7-B97E-0CC66BA931E5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DA5D80FF-BF76-4F51-84E0-148D04BF8A82</key>
+		<array/>
+	</dict>
+	<key>createdby</key>
+	<string>Kailey Lampert</string>
+	<key>description</key>
+	<string></string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Clipboard Picker</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>clippick</string>
+				<key>subtext</key>
+				<string>Press enter</string>
+				<key>text</key>
+				<string>Clipboard PIcker</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>69C565F1-BCC7-44A2-B02A-CC5A5109A0F0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>100</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>&lt;?php
+
+// Supports up to 50. To expand, the Args and Vars Utility block will need to be updated, as well as the creation of more icons.
+define( 'MAX_ITEMS', 20 );
+
+$query = $argv[1] ?? '';
+$query = explode( ' ', $query );
+$query = array_map( 'intval', $query );
+
+$query = array_filter( $query, function( $v ) {
+	return ( $v &gt;= 1 &amp;&amp; $v &lt;= MAX_ITEMS );
+} );
+
+$results_json = [ 'items' =&gt; [] ];
+
+$clipboard_all = [];
+$clipboard = array_combine( $query, $query ); // we just want an array keyed by the selection, this will preserve our user-supplied order
+
+for ( $i=1; $i&lt;=MAX_ITEMS; $i++ ) {
+
+	$clipboard_all[] = getenv("cb" . $i);
+
+	if ( in_array( $i, $query, true ) ) {
+		$clipboard[ $i ] = getenv("cb{$i}");
+		$icon = "icons/icon-picked-{$i}.png";
+	} else {
+		$icon = "icons/icon-{$i}.png";
+	}
+
+	$results_json['items'][] =
+		[
+			'title' =&gt; getenv("cb{$i}"),
+			'icon' =&gt; [
+				'path' =&gt; $icon,
+			]
+		];
+}
+
+$results_json[ 'variables' ] = [
+	'cb' =&gt; ( $clipboard ? implode( "\n", $clipboard ) : implode( "\n", $clipboard_all ) ),
+];
+
+die( json_encode( $results_json ) );</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>1</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>B739B45D-256F-41AB-9269-EFF9848451D5</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{var:cb}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>DA5D80FF-BF76-4F51-84E0-148D04BF8A82</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>cb1</key>
+					<string>{clipboard:0}</string>
+					<key>cb10</key>
+					<string>{clipboard:9}</string>
+					<key>cb11</key>
+					<string>{clipboard:10}</string>
+					<key>cb12</key>
+					<string>{clipboard:11}</string>
+					<key>cb13</key>
+					<string>{clipboard:12}</string>
+					<key>cb14</key>
+					<string>{clipboard:13}</string>
+					<key>cb15</key>
+					<string>{clipboard:14}</string>
+					<key>cb16</key>
+					<string>{clipboard:15}</string>
+					<key>cb17</key>
+					<string>{clipboard:16}</string>
+					<key>cb18</key>
+					<string>{clipboard:17}</string>
+					<key>cb19</key>
+					<string>{clipboard:18}</string>
+					<key>cb2</key>
+					<string>{clipboard:1}</string>
+					<key>cb20</key>
+					<string>{clipboard:19}</string>
+					<key>cb21</key>
+					<string>{clipboard:20}</string>
+					<key>cb22</key>
+					<string>{clipboard:21}</string>
+					<key>cb23</key>
+					<string>{clipboard:22}</string>
+					<key>cb24</key>
+					<string>{clipboard:23}</string>
+					<key>cb25</key>
+					<string>{clipboard:24}</string>
+					<key>cb26</key>
+					<string>{clipboard:25}</string>
+					<key>cb27</key>
+					<string>{clipboard:26}</string>
+					<key>cb28</key>
+					<string>{clipboard:27}</string>
+					<key>cb29</key>
+					<string>{clipboard:28}</string>
+					<key>cb3</key>
+					<string>{clipboard:2}</string>
+					<key>cb30</key>
+					<string>{clipboard:29}</string>
+					<key>cb31</key>
+					<string>{clipboard:30}</string>
+					<key>cb32</key>
+					<string>{clipboard:31}</string>
+					<key>cb33</key>
+					<string>{clipboard:32}</string>
+					<key>cb34</key>
+					<string>{clipboard:33}</string>
+					<key>cb35</key>
+					<string>{clipboard:34}</string>
+					<key>cb36</key>
+					<string>{clipboard:35}</string>
+					<key>cb37</key>
+					<string>{clipboard:36}</string>
+					<key>cb38</key>
+					<string>{clipboard:37}</string>
+					<key>cb39</key>
+					<string>{clipboard:38}</string>
+					<key>cb4</key>
+					<string>{clipboard:3}</string>
+					<key>cb40</key>
+					<string>{clipboard:39}</string>
+					<key>cb41</key>
+					<string>{clipboard:40}</string>
+					<key>cb42</key>
+					<string>{clipboard:41}</string>
+					<key>cb43</key>
+					<string>{clipboard:42}</string>
+					<key>cb44</key>
+					<string>{clipboard:43}</string>
+					<key>cb45</key>
+					<string>{clipboard:44}</string>
+					<key>cb46</key>
+					<string>{clipboard:45}</string>
+					<key>cb47</key>
+					<string>{clipboard:46}</string>
+					<key>cb48</key>
+					<string>{clipboard:47}</string>
+					<key>cb49</key>
+					<string>{clipboard:48}</string>
+					<key>cb5</key>
+					<string>{clipboard:4}</string>
+					<key>cb50</key>
+					<string>{clipboard:49}</string>
+					<key>cb6</key>
+					<string>{clipboard:5}</string>
+					<key>cb7</key>
+					<string>{clipboard:6}</string>
+					<key>cb8</key>
+					<string>{clipboard:7}</string>
+					<key>cb9</key>
+					<string>{clipboard:8}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>6D4B59C1-403C-4227-87F8-E26EEC72898E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>9</integer>
+				<key>hotmod</key>
+				<integer>1703936</integer>
+				<key>hotstring</key>
+				<string>V</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>92304C74-F017-4157-B5C4-E1E0888AACB6</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>100</integer>
+				<key>script</key>
+				<string>&lt;?php
+
+$query = abs( intval( $argv[1] ) );
+
+$lines = [];
+
+for ( $i=0; $i&lt;$query; $i++ ) {
+
+	$lines[] = "{clipboard:$i}";
+
+}
+
+die( implode( "\n", $lines ) );</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>BEA96177-873D-4783-B28B-06E2A86842D0</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>paste</string>
+				<key>subtext</key>
+				<string>Paste last &lt;number&gt; items from clipboard. Use option key to reverse order</string>
+				<key>text</key>
+				<string>Paste &lt;number&gt;</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>B38406A2-0C6B-40DC-B065-45CDCD54F556</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>5D810CAF-4F05-44E7-B97E-0CC66BA931E5</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>100</integer>
+				<key>script</key>
+				<string>&lt;?php
+
+$query = abs( intval( $argv[1] ) );
+
+$lines = [];
+
+for ( $i=0; $i&lt;$query; $i++ ) {
+
+	$lines[] = "{clipboard:$i}";
+
+}
+
+$lines = array_reverse( $lines );
+
+die( implode( "\n", $lines ) );</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>CADA326C-A372-46EA-9CE6-BCBE7B6218A4</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>9</integer>
+				<key>hotmod</key>
+				<integer>1835008</integer>
+				<key>hotstring</key>
+				<string>V</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>960CF659-B718-4EB6-BCDC-2328C5F9EBEA</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>paste </string>
+				<key>leftcursor</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.showalfred</string>
+			<key>uid</key>
+			<string>F3954C19-F298-4097-8E82-05DF2DBF11AC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>keyword</key>
+				<string>ppaste</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.snippet</string>
+			<key>uid</key>
+			<string>A3281562-32E1-4A34-8296-AA06D504BD23</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>for let in {a..z}; do
+	echo -n $let | pbcopy;
+	sleep .15
+done;</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>75CF9514-E0F7-46D8-BAEF-B085573255A7</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>.populateclipboard</string>
+				<key>subtext</key>
+				<string>adds a-z as individual letters to clipboard for testing</string>
+				<key>text</key>
+				<string>For testing, populate clipboard</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>515F27A2-F544-4C07-B3B5-F292FBC4A39B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string>Done.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>0A32D3E4-EBDA-45F9-8EA9-503D6D788860</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>for let in {z..a}; do
+	echo -n $let | pbcopy;
+	sleep .15
+done;</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>5</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>82226DC0-14B3-4FB4-814F-AE67F12D1FD0</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>0A32D3E4-EBDA-45F9-8EA9-503D6D788860</key>
+		<dict>
+			<key>xpos</key>
+			<real>590</real>
+			<key>ypos</key>
+			<real>895</real>
+		</dict>
+		<key>515F27A2-F544-4C07-B3B5-F292FBC4A39B</key>
+		<dict>
+			<key>note</key>
+			<string>Dev aid. Puts the A-Z in clipboard history.</string>
+			<key>xpos</key>
+			<real>80</real>
+			<key>ypos</key>
+			<real>895</real>
+		</dict>
+		<key>5D810CAF-4F05-44E7-B97E-0CC66BA931E5</key>
+		<dict>
+			<key>xpos</key>
+			<real>590</real>
+			<key>ypos</key>
+			<real>515</real>
+		</dict>
+		<key>69C565F1-BCC7-44A2-B02A-CC5A5109A0F0</key>
+		<dict>
+			<key>xpos</key>
+			<real>80</real>
+			<key>ypos</key>
+			<real>135</real>
+		</dict>
+		<key>6D4B59C1-403C-4227-87F8-E26EEC72898E</key>
+		<dict>
+			<key>xpos</key>
+			<real>270</real>
+			<key>ypos</key>
+			<real>220</real>
+		</dict>
+		<key>75CF9514-E0F7-46D8-BAEF-B085573255A7</key>
+		<dict>
+			<key>xpos</key>
+			<real>355</real>
+			<key>ypos</key>
+			<real>895</real>
+		</dict>
+		<key>82226DC0-14B3-4FB4-814F-AE67F12D1FD0</key>
+		<dict>
+			<key>xpos</key>
+			<real>355</real>
+			<key>ypos</key>
+			<real>1000</real>
+		</dict>
+		<key>92304C74-F017-4157-B5C4-E1E0888AACB6</key>
+		<dict>
+			<key>xpos</key>
+			<real>80</real>
+			<key>ypos</key>
+			<real>245</real>
+		</dict>
+		<key>960CF659-B718-4EB6-BCDC-2328C5F9EBEA</key>
+		<dict>
+			<key>xpos</key>
+			<real>80</real>
+			<key>ypos</key>
+			<real>565</real>
+		</dict>
+		<key>A3281562-32E1-4A34-8296-AA06D504BD23</key>
+		<dict>
+			<key>xpos</key>
+			<real>80</real>
+			<key>ypos</key>
+			<real>675</real>
+		</dict>
+		<key>B38406A2-0C6B-40DC-B065-45CDCD54F556</key>
+		<dict>
+			<key>xpos</key>
+			<real>80</real>
+			<key>ypos</key>
+			<real>460</real>
+		</dict>
+		<key>B739B45D-256F-41AB-9269-EFF9848451D5</key>
+		<dict>
+			<key>xpos</key>
+			<real>355</real>
+			<key>ypos</key>
+			<real>190</real>
+		</dict>
+		<key>BEA96177-873D-4783-B28B-06E2A86842D0</key>
+		<dict>
+			<key>xpos</key>
+			<real>355</real>
+			<key>ypos</key>
+			<real>460</real>
+		</dict>
+		<key>CADA326C-A372-46EA-9CE6-BCBE7B6218A4</key>
+		<dict>
+			<key>xpos</key>
+			<real>355</real>
+			<key>ypos</key>
+			<real>565</real>
+		</dict>
+		<key>DA5D80FF-BF76-4F51-84E0-148D04BF8A82</key>
+		<dict>
+			<key>xpos</key>
+			<real>590</real>
+			<key>ypos</key>
+			<real>190</real>
+		</dict>
+		<key>F3954C19-F298-4097-8E82-05DF2DBF11AC</key>
+		<dict>
+			<key>xpos</key>
+			<real>265</real>
+			<key>ypos</key>
+			<real>650</real>
+		</dict>
+	</dict>
+	<key>userconfigurationconfig</key>
+	<array/>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string></string>
+	<key>webaddress</key>
+	<string>trepmal.com/alfredapp</string>
+</dict>
+</plist>

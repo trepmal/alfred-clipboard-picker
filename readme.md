@@ -19,9 +19,3 @@ Snippet: `ppaste`
 ![picker](readme-images/paste.png)
 
 Pastes last *n* items from the clipboard. Use `option` modifier to reverse pasted order.
-
----
-
-## Demo
-
-![demo](readme-images/demo.mov)

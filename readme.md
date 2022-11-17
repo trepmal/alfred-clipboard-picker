@@ -2,7 +2,7 @@
 
 ## 1. Picker
 
-Keyword: `clippick`. 
+Keyword: `clippick`  
 Shortcut: `cmd+option+shift+v`
 
 ![picker](readme-images/picker.png)
@@ -12,8 +12,8 @@ When launched, opens a clipboard history facsimile. Enter clipboard items number
 
 ## 2. Paste last *n*
 
-Keyword: `paste`. 
-Shortcut: `cmd+option+ctrl+v`
+Keyword: `paste`  
+Shortcut: `cmd+option+ctrl+v`  
 Snippet: `ppaste`
 
 ![picker](readme-images/paste.png)
